@@ -1,2 +1,2 @@
 # HD-Commander-Textures
-Split the HD commander textures into separate mods
+Packages the Uber Entertainment HD Commander textures (found here https://github.com/bgolus/pa.commandertextures ), into separate mods.
